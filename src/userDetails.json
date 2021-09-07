@@ -1,0 +1,62 @@
+[
+    {
+        "customerId": 101,
+        "customerName": "John",
+        "transactionDate": "01/01/2021",
+        "transactionAmount": 100
+    },
+    {
+        "customerId": 101,
+        "customerName": "John",
+        "transactionDate": "02/01/2021",
+        "transactionAmount": 200
+    },
+    {
+        "customerId": 101,
+        "customerName": "John",
+        "transactionDate": "03/01/2021",
+        "transactionAmount": 300
+    },
+    {
+        "customerId": 101,
+        "customerName": "John",
+        "transactionDate": "01/01/2021",
+        "transactionAmount": 500
+    },
+    {
+        "customerId": 102,
+        "customerName": "Sam",
+        "transactionDate": "01/01/2021",
+        "transactionAmount": 200
+    },
+    {
+        "customerId": 102,
+        "customerName": "Sam",
+        "transactionDate": "02/01/2021",
+        "transactionAmount": 300
+    },
+    {
+        "customerId": 102,
+        "customerName": "Sam",
+        "transactionDate": "03/01/2021",
+        "transactionAmount": 600
+    },
+    {
+        "customerId": 102,
+        "customerName": "Sam",
+        "transactionDate": "02/01/2021",
+        "transactionAmount": 300
+    },
+    {
+        "customerId": 101,
+        "customerName": "John",
+        "transactionDate": "03/01/2021",
+        "transactionAmount": 400
+    },
+    {
+        "customerId": 102,
+        "customerName": "Sam",
+        "transactionDate": "02/01/2021",
+        "transactionAmount": 300
+    }
+]
